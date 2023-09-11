@@ -30,7 +30,8 @@ select{
 @media (max-width: 586px) {
 
     .main-card{
-        width: 60%;
+        width: 70%;
+        height: 600px;
         background-color: white;
         margin: 50px auto;
         padding: 2rem;
