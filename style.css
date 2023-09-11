@@ -20,23 +20,27 @@ body{
     gap:10px;
 }
 
+
 select{
     width: 50%;
     box-sizing: border-box;
     padding: 8px;
-    
+  
 }
+
+
+
 
 @media (max-width: 586px) {
 
     .main-card{
-        width: 70%;
-        
+        width: 400px;
         background-color: white;
         margin: 50px auto;
         padding: 2rem;
         text-align: center;
         border-radius: 10px;
+        
     }
     .flex{
         display: flex;
