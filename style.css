@@ -23,7 +23,7 @@ body{
 select{
     width: 50%;
     box-sizing: border-box;
-    padding: 6px;
+    padding: 8px;
     
 }
 
@@ -31,7 +31,7 @@ select{
 
     .main-card{
         width: 70%;
-        height: 600px;
+        
         background-color: white;
         margin: 50px auto;
         padding: 2rem;
@@ -48,7 +48,7 @@ select{
     select{
         width: 100%;
         box-sizing: border-box;
-        padding: 6px;
+        padding: 8px;
         
     }
     
